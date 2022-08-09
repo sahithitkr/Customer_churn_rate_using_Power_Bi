@@ -1,6 +1,6 @@
 # Project Overview:
 ### Tools Used: SQL, Power Query, PowerBI 
-[Project files](https://github.com/sahithitkr/Customer_churn_rate_using_Power_Bi/edit/)
+[Project files](https://github.com/sahithitkr/Customer_churn_rate_using_Power_Bi/)
 * Used SQL to perform Exploratory Data Analysis and to find trends.
 * Used Power Query to Load and transaform data before creating visualisations using PowerBI
 * Made a dashboard answering key questions that would help the company identify customer churn risks and help in making better decision to increase customer retention rate.
